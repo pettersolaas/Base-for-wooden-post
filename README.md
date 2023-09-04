@@ -1,1 +1,1 @@
-# Base-for-wooden-post
+A base to mount wooden posts on a flat surface. Inner dimensions are 23x46,5mm and 100mm deep. Note that the center is offset to one side. I made this to mount wooden posts for a case feeder and bullet feeder for my reloading press.
